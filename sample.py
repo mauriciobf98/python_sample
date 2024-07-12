@@ -1,12 +1,11 @@
 def input_point_comment():
-    while True:
+  while True:
      print('Por favor, introduzca una puntuación en una escala de 1 a 5')
      point = input()
      if point.isdecimal():
           point = int(point)
           if   point <= 0 or point > 5: # Expresión condicional de menor que 0 o mayor que 5.
-               print('Indíquelo en una escala de 1 a 5')
-               point = input()
+               continue #si esta fuera del rango, empieza de nuevo el ciclo
           else:
                 print('Introduzca sus comentarios.')
                 comment = input()

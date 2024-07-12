@@ -1,4 +1,9 @@
 
-: 1 comentario:  
-punto: 3 comentario: bueno 
-punto: 5 comentario: excelente 
+punto: 3 comentario: 5 
+punto: 4 comentario: bien 
+punto: 5 comentario: bien 
+punto: 3 comentario: bien 
+punto: 5 comentario: bien 
+punto: 4 comentario: ok 
+punto: 5 comentario: bien 
+punto: 4 comentario: 4 
